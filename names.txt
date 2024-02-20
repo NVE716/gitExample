@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,nelias,Elias,Nick
 employee,asyraf,Asyraf,Ahsan
